@@ -19,7 +19,7 @@ thought it looked cleaner. Now I think we should deff do PEP 8 more.
 - [ ] 100 + officially written articles from the Masonite content team.
 - [ ] Better publishing of packages 
 - [ ] Remove resolving of parameters
-- [ ] Support pipenv out of the box
+- [ ] Make pipenv the official package management tool
 
 ## v2.2 -- [June 2019 LTS]
 
