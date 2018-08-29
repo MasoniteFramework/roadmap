@@ -7,7 +7,7 @@ We will explain a general planned feature and a small bit of explanation of need
 
 - [ ] Move more code into core by inheriting from some parent class instead of putting the entire class in the framework installation
 - [ ] Move more framework features into core middleware. There is a lot of code inside the `RouteProvider` that can be abstracted out and put into middleware
-- [ ] Use better PEP 8 standards. For 2.0 we left triple single quotes in (`'''` instead of `"""`) which is not PEP 8 compliant but I (Joe Mancuso) 
+- [x] Use better PEP 8 standards. For 2.0 we left triple single quotes in (`'''` instead of `"""`) which is not PEP 8 compliant but I (Joe Mancuso) 
 thought it looked cleaner. Now I think we should deff do PEP 8 more.
 - [ ] Create an official website to host user accounts, information, blogs, videos and 
 - [ ] Docstring all the code and generate a static site to host the API reference documentation.
