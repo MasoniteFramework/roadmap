@@ -29,3 +29,6 @@ thought it looked cleaner. Now I think we should deff do PEP 8 more.
 - Slight API changes that won't fit in a minor but needs to be able to be up to date for the next 3 years.
 - Create a wsgi service for Masonite and other WSGI apps.
 - full selenium testing package plus command testing
+
+## v2.3 -- [December 2019]
+- [ ] Remove all modules from Masonite container
