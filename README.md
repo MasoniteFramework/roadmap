@@ -32,3 +32,4 @@ thought it looked cleaner. Now I think we should deff do PEP 8 more.
 
 ## v2.3 -- [December 2019]
 - [ ] Remove all modules from Masonite container
+- [ ] remove the dependence on any key bindings so all bindings can be "simple"
