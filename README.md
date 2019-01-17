@@ -14,7 +14,7 @@ thought it looked cleaner. Now I think we should deff do PEP 8 more.
 - [x] Add out of the box support for seeding (have base files setup)
 - [x] Create an official package for unit testing a Masonite app
 
-- [-] Full video course
+- [x] Full video course
 - [x] Remove resolving of parameters
 - [x] Make pipenv the official package management tool
 
