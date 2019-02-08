@@ -29,6 +29,8 @@ thought it looked cleaner. Now I think we should deff do PEP 8 more.
 - [ ] Better publishing of packages 
 - [ ] Create a logging package with at least 3 drivers: native python logger, logstash and sentry.
 - [ ] Create an official website to host user accounts, information, blogs, videos and 
+- [ ] Rename queue "channels" to queue "queues"
+- [ ] Add more methods to the queue contract 
 
 ## v3.0 -- [December 2019]
 - [ ] Remove all modules from Masonite container
